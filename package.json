@@ -1,0 +1,15 @@
+{
+  "name": "abc",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A short description of your syntax theme",
+  "keywords": [
+    "แแทงม้า",
+    "แทงมั่ว"
+  ],
+  "repository": "https://github.com/lluvenis/abc.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
